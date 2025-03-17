@@ -2,7 +2,7 @@ import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import React from 'react'
 import Header from './components/Header/Header'
-import './app.css'
+import './App.css'
 import Aboutme from './components/Aboutme/Aboutme'
 import Footer from './components/Footer/Footer'
 import Homepage from "./pages/Homepage/Homepage";
