@@ -1,0 +1,27 @@
+.about-me-heading{
+text-align: center;
+font-size: 3vw;
+text-transform: uppercase;
+}
+.about-me-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.about-me-card-image{
+    width: 40vw;
+    height: 40vw;
+}
+.about-me-card-image img{
+    width: 40vw;
+    height: 40vw;
+}
+.about-me-card-items{
+    width: 50vw;
+}
+.about-me-card-items h1{
+    font-size: 3vw;
+}
+.about-me-card-items p{
+    font-size: 2vw;
+}

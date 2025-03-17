@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+header h2{
+    text-transform: uppercase;
+    font-size: 2vw;
+    cursor: pointer;
+    color: #000;
+}
+header button{
+    padding: 10px 20px;
+    font-size: 1.2vw;
+    cursor: pointer;
+    border: 1px solid #000;
+    border-radius: 50px;
+    color: #fff;
+    background-color: #007074;
+}

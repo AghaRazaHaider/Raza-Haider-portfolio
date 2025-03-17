@@ -1,0 +1,12 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #e6e6e6;
+}
+footer h4{
+    text-transform: uppercase;
+}
+footer span{
+    color: #666;
+}

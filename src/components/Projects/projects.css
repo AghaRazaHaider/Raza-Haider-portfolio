@@ -1,0 +1,40 @@
+.projectsdiv{
+    margin-bottom: 5vw ;
+}
+.my-projects-heading{
+    text-align: center;
+    font-size: 3vw;
+    text-transform: uppercase;
+    color: teal;
+    margin-top: 50px;
+}
+.my-projects-heading-2{
+    text-align: center;
+    line-height: 3;
+}
+.card-bg{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 2vw;
+    gap: 20px;
+}
+.see-more-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vw;
+}
+.projects-see-more-button{
+    padding: 10px 30px;
+    font-size: 1.3vw;
+    border-radius: 50px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background: transparent;
+    transition: linear 0.3s;
+}
+.projects-see-more-button:hover{
+    background-color: #007074;
+    color: #fff;
+    transform: scale(110%);
+}

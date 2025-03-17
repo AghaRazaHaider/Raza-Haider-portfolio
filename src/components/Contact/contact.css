@@ -1,0 +1,35 @@
+.full-contact-me-section{
+    margin-top: 15vw;
+    margin-bottom: 10vw;
+}
+.contact-me-section-heading{
+    color: #007074; 
+    font-size: 4vw;
+}
+.contact-me-section-heading-2{
+    font-size: 2vw;
+    color: #242424;
+}
+.contact-card-bg{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3vw;
+    justify-content: center;
+    margin-top: 5vw;
+}
+.contactcard{
+    display: flex;
+    gap: 1vw;
+    align-items: center;
+    width: 25vw;
+    padding: 10px;
+    border-radius: 5px;
+    transition: linear 0.3s;
+}
+.contactcard:hover{
+    background-color: #eee;
+}
+.contactcard img{
+    width: 5vw;
+    border-radius: 50%;
+}
