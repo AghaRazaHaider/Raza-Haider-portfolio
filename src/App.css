@@ -61,3 +61,9 @@
 .dark-mode .card:hover{
     background-color: #222;
 }
+.dark-mode .skills-logo span{
+    background-color: #111;
+}
+.dark-mode .skills-logo span:hover{
+    background-color: #222;
+}
