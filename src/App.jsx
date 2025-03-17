@@ -4,7 +4,6 @@ import React from 'react'
 import Header from './components/Header/Header'
 import './App.css'
 import Aboutme from './components/Aboutme/Aboutme'
-import './app.css'
 import Footer from './components/Footer/Footer'
 import Homepage from "./pages/Homepage/Homepage";
 import Seemoreprojects from "./pages/Seemoreprojects";
